@@ -1,0 +1,9 @@
+INFO Application started
+INFO Database connected
+ERROR Database connection failed
+INFO Retrying connection
+ERROR Connection timeout
+INFO Database connected
+WARNING High memory usage
+ERROR Application crashed
+INFO Application restarted
